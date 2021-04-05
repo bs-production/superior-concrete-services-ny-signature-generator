@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/ms-logo-header-white.png" alt="" style="width:250px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/2726/MidStateBSLogo.png" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Master Services logo and click & drag to bottom-right corner of the disclaimer</li>
+              <li>1. Place cursor at the top-left corner of Mid-State Basement Systems logo and click & drag to bottom-right corner of the disclaimer</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Master Service Companies
+                    &copy;2020 Mid-State Basement Systems
                 </p>
             </div>
         </div>
@@ -202,7 +202,7 @@ input:disabled {
   margin-right: 100px;
 }
 .hero.is-primary {
-  background-color: #013d63;
+  background-color: #fff;
 }
 .button {
   margin-top: 10px;
@@ -227,13 +227,14 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #f15d2a;
+  color: #000;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 32px;
 }
 .hero-body {
   padding: 1.5rem 1.5rem;
+  border-bottom: 1px sol #000;
 }
 .input:focus {
   border-color: #FF7F30;
