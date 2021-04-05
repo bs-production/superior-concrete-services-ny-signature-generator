@@ -234,7 +234,7 @@ input:disabled {
 }
 .hero-body {
   padding: 1.5rem 1.5rem;
-  border-bottom: 1px sol #000;
+  border-bottom: 1px solid #000;
 }
 .input:focus {
   border-color: #FF7F30;
