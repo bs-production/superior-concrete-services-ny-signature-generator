@@ -93,7 +93,7 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png" /></a>
                     
-                    <a href="https://www.google.com/maps/place/Mid-State+Basement+Systems/@39.6785965,-84.7885211,7z/data=!3m1!4b1!4m5!3m4!1s0x88389196dc5a8f07:0xde39df6139e7dc2c!8m2!3d39.700183!4d-82.5452634" target="_blank"
+                    <a href="https://g.page/klaus-roofing-OH/review?rc" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
