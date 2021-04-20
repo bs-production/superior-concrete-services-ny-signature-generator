@@ -93,7 +93,7 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png" /></a>
                     
-                    <a href="https://g.page/klaus-roofing-OH/review?rc" target="_blank"
+                    <a href="https://g.page/mid-state-basement-systems-oh/review?rc" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
