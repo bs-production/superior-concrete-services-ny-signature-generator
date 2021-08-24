@@ -72,7 +72,7 @@
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   <a href="https://www.healthybasementsystems.com/" target="_blank" style=
                   "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
-                    midstatebasementsystems.com</a>
+                    healthybasementsystems.com</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr>
