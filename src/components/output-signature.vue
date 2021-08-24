@@ -5,10 +5,10 @@
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
-              <a href="https://www.masterservicestn.com">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2726/signature-logo-bar.png" name="preview-image-url" />
+              <a href="https://www.healthybasementsystems.com/" target="_blank">
+                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/48/healthy-signature_logo-bar.png" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2726/signature-logo-bar.png" name="preview-image-url" />
+                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/48/healthy-signature_logo-bar.png" name="preview-image-url" />
               </a>
             </td>
             
@@ -70,7 +70,7 @@
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  <a href="https://www.midstatebasementsystems.com/" target="_blank" style=
+                  <a href="https://www.healthybasementsystems.com/" target="_blank" style=
                   "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
                     midstatebasementsystems.com</a>
                     &nbsp;&nbsp;
@@ -79,35 +79,49 @@
 
                 <tr>
                   <td colspan="2" style="padding-top: 5px;">
-                    <a href="https://www.facebook.com/midstatebasementsystems/" target="_blank" style=
+                    <a href="https://www.facebook.com/healthybasementsystems" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-facebook_30x30-2.png" /></a>
                     
-                    <a href="https://www.linkedin.com/company/mid-state-basement-systems" target="_blank" style=
+                    <a href="https://www.linkedin.com/company/2881679/admin/" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png" /></a>
                     
-                    <a href="https://g.page/mid-state-basement-systems-oh/review?rc" target="_blank"
+                    <!-- <a href="https://g.page/mid-state-basement-systems-oh/review?rc" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" /></a>
+                    "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" /></a> -->
 
-                    <a href="https://www.instagram.com/midstatebasement/" target="_blank"
+                    <a href="https://www.instagram.com/healthybasementsystems/" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-instagram_30x30.png" /></a>
+                    <a href="https://www.youtube.com/channel/UCgmszJizjhPE8jwcUvNvzew" target="_blank"
+                    style=
+                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
+                    height="25" style=
+                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
+                    src=
+                    "https://cdn.treehouseinternetgroup.com/cms_images/48/sign-youtube-icon.png" /></a>
+                    <a href="https://www.tiktok.com/@healthybasementsystems?lang=en" target="_blank"
+                    style=
+                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
+                    height="25" style=
+                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
+                    src=
+                    "https://cdn.treehouseinternetgroup.com/cms_images/48/tiktok-icon.png" /></a>
                   </td>
                 </tr>
               </table>
