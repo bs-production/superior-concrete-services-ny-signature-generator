@@ -86,7 +86,7 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-facebook_30x30-2.png" /></a>
                     
-                    <a href="https://www.linkedin.com/company/2881679/admin/" target="_blank" style=
+                    <a href="https://www.linkedin.com/company/larry-janeskys-healthy-basement-systems" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
