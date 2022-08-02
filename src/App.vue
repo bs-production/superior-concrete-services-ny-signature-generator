@@ -21,7 +21,7 @@
           <div class="column" id="input-info">
               <h3 class="subtitle">Input Information</h3>
                
-            <inputInformation :fullName.sync="fullName" :title.sync="title" :mobilePhone.sync="mobilePhone" :phone.sync="phone" :email.sync="email" :mobilePhoneSwitch.sync="mobilePhoneSwitch" v-on:changeTitle="updateTitle($event)" />
+            <inputInformation :fullName.sync="fullName" :title.sync="title" :mobilePhone.sync="mobilePhone" :phone.sync="phone" :directPhone.sync="directPhone" :email.sync="email" :mobilePhoneSwitch.sync="mobilePhoneSwitch" v-on:changeTitle="updateTitle($event)" />
 <!----------------- Button ---------------->   
     <button v-show="!mobilePhoneSwitch" @click="toggleShow, $modal.show('output')" class="button is-success" type="submit" :disabled="!isValid">
         Copy Signature
@@ -38,7 +38,7 @@
 <!----------------- Output Signature ---------------->       
           <div class="column">
               <h3 class="subtitle">Output Signature</h3>
-            <outputSignature :fullName.sync="fullName" :title.sync="title" :mobilePhone.sync="mobilePhone" :phone.sync="phone" :email.sync="email" :mobilePhoneSwitch.sync="mobilePhoneSwitch" v-on:changeTitle="updateTitle($event)"/>
+            <outputSignature :fullName.sync="fullName" :title.sync="title" :mobilePhone.sync="mobilePhone" :phone.sync="phone" :directPhone.sync="directPhone" :email.sync="email" :mobilePhoneSwitch.sync="mobilePhoneSwitch" v-on:changeTitle="updateTitle($event)"/>
           </div>
         </div>
       </div>
@@ -56,7 +56,7 @@
                       </a>
                     </p>
                 </div>
-            <outputSignature :fullName.sync="fullName" :title.sync="title" :mobilePhone.sync="mobilePhone" :phone.sync="phone" :email.sync="email" :mobilePhoneSwitch.sync="mobilePhoneSwitch" v-on:changeTitle="updateTitle($event)"/>
+            <outputSignature :fullName.sync="fullName" :title.sync="title" :mobilePhone.sync="mobilePhone" :phone.sync="phone" :directPhone.sync="directPhone" :email.sync="email" :mobilePhoneSwitch.sync="mobilePhoneSwitch" v-on:changeTitle="updateTitle($event)"/>
            
           </div>
 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Healthy Basement Systems
+                    &copy;2022 Healthy Basement Systems
                 </p>
             </div>
         </div>
@@ -95,6 +95,7 @@ export default {
       title: 'Title',
       mobilePhone: 'Mobile',
       phone: 'Office',
+      directPhone: 'Direct',
       email: 'Email',
       isShowing: false,
       mobilePhoneSwitch: false
@@ -102,13 +103,13 @@ export default {
   },
   computed: {
     isValid: function () {
-      return this.fullName !== 'Full Name' && this.title !== 'Title' && this.phone !== 'Office' && this.email !== 'Email'
+      return this.fullName !== 'Full Name' && this.title !== 'Title' && this.phone !== 'Office' && this.directPhone !== 'Direct' && this.email !== 'Email'
     },
     isValidAss: function () {
-      return this.fullName !== 'Full Name' && this.title !== 'Title' && this.mobilePhone !== 'Mobile' && this.phone !== 'Office' && this.email !== 'Email'
+      return this.fullName !== 'Full Name' && this.title !== 'Title' && this.mobilePhone !== 'Mobile' && this.phone !== 'Office' && this.directPhone !== 'Direct' && this.email !== 'Email'
     },
     isReset: function () {
-      return this.fullName !== 'Full Name' || this.title !== 'Title' || this.mobilePhone !== 'Mobile' || this.phone !== 'Office' || this.email !== 'Email'
+      return this.fullName !== 'Full Name' || this.title !== 'Title' || this.mobilePhone !== 'Mobile' || this.phone !== 'Office' || this.directPhone !== 'Direct' || this.email !== 'Email'
     }
   },
   methods: {
