@@ -138,9 +138,6 @@
           </tr>
         </table>
         <p><a href="https://www.healthybasementsystems.com/refer-give-to-get.html" style="font-weight:bold; color:#000;">We <i>LOVE Referrals</i><img width="20" height="20" style="border: none; width: 20px; max-width: 20px !important; height: 20px; max-height: 20px !important;" src="https://cdn.treehouseinternetgroup.com/cms_images/48/cursor-click.png" /></a></p>
-        <p style="font-size: 14px"><b>HELPING THOSE IN NEED: 1 Google Review = $1 donated to Long Island Cares</b> <a href="https://www.google.com/maps/place/Healthy+Basement+Systems/@40.8448913,-72.9913388,17z/data=!3m1!4b1!4m5!3m4!1s0x89e833f16980dc53:0xa572c163f7d3fcf8!8m2!3d40.8448913!4d-72.9913388" style="font-weight:bold; color:#000;"> <br>(Click here to leave us a review)
-         </a></p>
-          <img width="200" height="118" style="border: none; width: 200px; max-width: 200px !important; height: 118px; max-height: 118px !important;" src="https://cdn.treehouseinternetgroup.com/cms_images/2948/LIClogo.jpg" />
           <p style="font-size: 10px; color: #000; line-height: 12px;text-align: left; width: 450px" width="450">This message contains confidential information and is intended only for the intended recipients. If you are not an intended recipient you should not disseminate, distribute or copy this e-mail. Please notify us immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. Therefore we do not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.</p>
     </section>
   </div>
