@@ -102,13 +102,13 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png" /></a>
                     
-                    <!-- <a href="https://g.page/mid-state-basement-systems-oh/review?rc" target="_blank"
+                    <a href="https://www.google.com/maps/place/Healthy+Basement+Systems/@40.844893,-72.9913414,17z/data=!3m1!4b1!4m6!3m5!1s0x89e833f16980dc53:0xa572c163f7d3fcf8!8m2!3d40.844893!4d-72.9913414!16s%2Fg%2F1tfrc6hs?hl=en&authuser=3&entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" /></a> -->
+                    "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" /></a>
 
                     <a href="https://www.instagram.com/healthybasementsystems/" target="_blank"
                     style=
